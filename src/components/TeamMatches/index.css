@@ -67,3 +67,12 @@
     margin-top: 32px;
   }
 }
+.button {
+  height: 36px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #4387f6;
+  color: white;
+  border: 0px;
+  outline: none;
+}
